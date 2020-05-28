@@ -7,5 +7,5 @@ The Website is compeltely built using HTML.
 ## India Fight Back Amphan
 ![](amphan.jpg)
 ## Website Preview
-![]
-![]
+![](Screenshot (245).png)
+![](Screenshot (246).png)
