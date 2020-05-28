@@ -4,3 +4,7 @@ Its sole purpose is to collect donations and help the regions affected by the cy
 This is only the front end part of the website.
 ## Tools used
 The Website is compeltely built using HTML.
+## India Fight Back Amphan
+![](amphan.jpg)
+![](main.jpg)
+## Website Preview
