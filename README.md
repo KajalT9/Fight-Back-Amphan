@@ -8,6 +8,6 @@ This is only the front end part of the website.
 The website is compeletely built using HTML.
 ## Website Preview
 These are the screenshots of the website.
-![](screenshot(245).png)
-![](screenshot(246).png)
+![](screenshot245.png)
+![](screenshot246.png)
 
