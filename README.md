@@ -10,4 +10,3 @@ The website is compeletely built using HTML.
 These are the screenshots of the website.
 ![](websiteimg1.png)
 ![](websiteimg2.png)
-
