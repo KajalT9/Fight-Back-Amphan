@@ -6,7 +6,6 @@ This is only the front end part of the website.
 The Website is compeltely built using HTML.
 ## India Fight Back Amphan
 ![](amphan.jpg)
-![](main.jpg)
 ## Website Preview
-![](screenshot(245).png)
-![](screenshot(246).png)
+![]
+![]
