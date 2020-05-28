@@ -8,3 +8,5 @@ The Website is compeltely built using HTML.
 ![](amphan.jpg)
 ![](main.jpg)
 ## Website Preview
+![](screenshot(245).png)
+![](screenshot(246).png)
